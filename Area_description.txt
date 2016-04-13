@@ -1,0 +1,7 @@
+Map Area: Greater Seattle Area, WA
+link to download: https://mapzen.com/data/metro-extracts
+	search Seattle
+
+The area includes not only Seattle, but a good portion of Western Washington. Olympia, Everett, Bellingham, and other major Washington cities are included in the dataset. A portion of Vancouver island, a part of Canada, is also present. Aside from cities, the region also includes a large amount of forested and mountainous area.
+
+I chose this region because I was born and raised here.
